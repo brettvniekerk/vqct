@@ -1,0 +1,13 @@
+{
+    "New Contract": {
+        "prefix": "newcontract",
+        "body": [
+            "// SPDX-License-Identifier: UNLICENSED",
+            "pragma solidity =0.8.28;",
+            "",
+            "contract ${1:ContractName} {",
+            "  ${2}",
+            "}"
+        ]
+    }
+}
