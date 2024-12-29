@@ -1,6 +1,6 @@
 {
   "name": "vqct",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Very Quick Contracts Template",
   "scripts": {
     "test": "hardhat test",
@@ -15,6 +15,7 @@
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "@nomicfoundation/hardhat-verify": "^2.0.12",
     "@nomicfoundation/ignition-core": "^0.15.9",
+    "@openzeppelin/contracts": "^5.1.0",
     "@typechain/ethers-v6": "^0.5.1",
     "@typechain/hardhat": "^9.1.0",
     "@types/chai": "^5.0.1",
